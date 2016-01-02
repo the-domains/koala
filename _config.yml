@@ -1,0 +1,14 @@
+layout_spectrum: 0.5214829
+typography_spectrum: 0.1385326
+color:
+  saturation: 0.02106545
+  lightness: 0.2457594
+  brandStrength: 0.342044
+  rhythmicContrast: 0.750406
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Koala

@@ -1,14 +1,26 @@
-layout_spectrum: 0.5214829
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.1385326
 color:
-  saturation: 0.02106545
-  lightness: 0.2457594
-  brandStrength: 0.342044
-  rhythmicContrast: 0.750406
+  saturation: 1
+  lightness: 1
+  brandStrength: 0
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+  rhythmicContrast: 0
+layout_spectrum: 0.5573477
 name: Koala
